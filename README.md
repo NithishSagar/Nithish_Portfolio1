@@ -76,7 +76,6 @@ src/
 
 **Nithish Sagar Dharmappa**
 - GitHub: https://github.com/NithishSagar
-- Portfolio: https://nithishsagar.dev
 
 ## License
 
